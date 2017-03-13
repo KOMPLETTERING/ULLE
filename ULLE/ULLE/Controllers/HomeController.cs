@@ -13,9 +13,9 @@ namespace ULLE.Controllers
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult Zip()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "ZIPPPPEN";
 
             return View();
         }
